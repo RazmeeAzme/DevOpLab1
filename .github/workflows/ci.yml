@@ -32,7 +32,7 @@ jobs:
 
       - name: Run tests
         env:
-          PYTHONPATH: ./app  # <-- ensure Python can find your app package
+          PYTHONPATH: .
         run: |
           pytest -q
 
