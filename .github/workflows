@@ -1,0 +1,9 @@
+lab1-actions-demo/
+├─ app/
+│  └─ main.py
+├─ tests/
+│  └─ test_main.py
+├─ requirements.txt
+└─ .github/
+   └─ workflows/
+      └─ ci.yml
